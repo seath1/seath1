@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian Muñoz</h1>
 <h3 align="center">A passionate Fullstack developer from Chile</h3>
-<p>you will find personal and school projects 📚<p>
+<p align="center">you will find personal and school projects 📚<p>
 <img aling="center" width="282" height="364" src="mario.gif">
       
 <div aling="center">
