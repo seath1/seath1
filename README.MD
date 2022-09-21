@@ -14,7 +14,8 @@
 <h3 align="left">Databases and Others:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seath1&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="seath1" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seath1&show_icons=true&locale=en&layout=compact" alt="seath1" /></p>
 
 
 <br>
